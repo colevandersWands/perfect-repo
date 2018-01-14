@@ -17,4 +17,5 @@ A finished repo will have:
   * tags for important steps
   * branches when necessecary
   * helpful commit messages
-  * a todo list: no project is every truely finished
+  * a todo list: no project is every truely finished  
+  * tests (do as i say, not as i do)
